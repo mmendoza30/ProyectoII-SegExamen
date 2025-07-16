@@ -135,7 +135,7 @@ def main():
     with st.container():
         st.title('Liga Española 2024-2025')
     # Ruta del archivo
-    archivo = "C:/Users/rmont/Downloads/proyecto II progamacion/final/ProyectoII-SegExamen/Proyecto II/la_liga_insights/data/partidos-laliga-2024-2025.csv"
+    archivo = "C:/Users/Fabiola/ProyectoII-SegExamen/Proyecto II/la_liga_insights/data/partidos-laliga-2024-2025.csv"
 
     try:
         # Cargar datos
